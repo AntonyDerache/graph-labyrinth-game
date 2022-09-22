@@ -1,6 +1,6 @@
 # 🔎 Labyrinth game
 
-labyrinth is a shell game where you will spawn in a labyrinth and you will have to find the correct escape room. You goal is to find this room in the minimal steps as possible.
+Labyrinth is a shell game where you will spawn in a labyrinth and you will have to find the correct escape room. You goal is to find this room in the minimal steps as possible.
 
 ## Features
 
