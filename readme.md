@@ -5,7 +5,7 @@ Labyrinth is a shell game where you will spawn in a labyrinth and you will have 
 ## Features
 
 - Level selection menu
-- Know how much steps you made to reach the escape room
+- Know how many steps you made to reach the escape room
 - Know the minimal possible steps to reach the escape room.
 
 ## Levels folder instructions
@@ -13,7 +13,7 @@ Labyrinth is a shell game where you will spawn in a labyrinth and you will have 
 All the levels are stocked in a /levels folder. This folder must be in the same directory of the the executable.
 If an error occured during the file parsing, an error message will be displayed on your terminal and you won't be able to find your level on the selection menu.
 
-You can create your own level if you wish to. For that, create a new .txt file in the /levels folder and follow the **Levels files syntax** instructions to fill it up correctly.
+You can create your own level if you wish. For that, create a new .txt file in the /levels folder and follow the **Levels files syntax** instructions to fill it up correctly.
 
 ### Visual Studio
 
